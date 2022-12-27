@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussain Rifat</h1>
-<h3 align="center">Working As Business Analyst at Spring Rain</h3>
+<h3 align="center">Working As Business Analyst at Bit Mascot</h3>
 
 - 🌱 I’m currently learning **Javascript**
 
