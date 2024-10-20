@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hussain Rifat</h1>
-<h3 align="center">Working As Business Analyst at Bit Mascot</h3>
+<h1 align="center">Hi 👋, I'm Hussain </h1>
 
-- 🌱 I’m currently learning **Javascript**
-
-- 👨‍💻 Visit My Portfolio Website [https://hussainrifat.xyz/](https://hussainrifat.xyz/)
-
+- 🌱 I’m currently learning **AI & Machine Learning**
 - 💬 Ask me about **wordpress, laravel, project management, start up**
 
 <br>
